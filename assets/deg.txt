@@ -1,0 +1,2 @@
+0 guns
+1 knives

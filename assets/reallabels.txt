@@ -1,0 +1,3 @@
+0 guns
+1 knives
+2 office
